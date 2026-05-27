@@ -4,7 +4,7 @@ import cn.bugstack.domain.award.model.aggregate.GiveOutPrizesAggregate;
 import cn.bugstack.domain.award.model.aggregate.UserAwardRecordAggregate;
 
 /**
- * @author Fuzhengwei bugstack.cn @小傅哥
+ * @author Fuzhengwei bugstack.cn
  * @description 奖品仓储服务
  * @create 2024-04-06 09:02
  */

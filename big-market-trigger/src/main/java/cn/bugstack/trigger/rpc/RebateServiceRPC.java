@@ -19,7 +19,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author Fuzhengwei bugstack.cn @小傅哥
+ * @author Fuzhengwei bugstack.cn
  * @description 返利服务
  * @create 2024-10-20 13:44
  */
